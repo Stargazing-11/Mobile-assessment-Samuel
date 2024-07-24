@@ -61,6 +61,7 @@ Enhance the given Flutter application by adding new features, improving the UI, 
 
 
 ## Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/1b5da171-b3fe-4726-ae4d-5eb5630341e8)
+![image](https://github.com/user-attachments/assets/6f1d3515-740a-4802-8b4a-2468dc694cde)
+![image](https://github.com/user-attachments/assets/58077c4e-18f3-4043-8aaa-1888cf8a7d40)
+
